@@ -1,10 +1,5 @@
 ### Olá 👋
 
-
-**Thyagocool/Thyagocool** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
-Aqui estão algumas idéias para você começar:
-
 - 🔭 Atualmente estou trabalhando em um projeto pessoal para controle de gastos mensais
 - 🌱 Atualmente estou aprendendo python, nodejs, ionic, angular
 <!-- - 👯 Estou procurando colaborar em ... 
