@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 
 **Thyagocool/Thyagocool** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
