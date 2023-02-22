@@ -8,7 +8,7 @@ Profissional e eterno estudante de tecnologia
 ______
 **Languages**
 
-[<img src="https://badges.aleen42.com/src/javascript.svg "/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="https://badges.aleen42.com/src/javascript.svg"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img src="https://badges.aleen42.com/src/node.svg" />](https://nodejs.org/en/)
 [<img src="https://badges.aleen42.com/src/python.svg" />](https://www.python.org/)
 [<img src="https://badges.aleen42.com/src/typescript.svg" />](https://www.typescriptlang.org/)
