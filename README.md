@@ -1,7 +1,7 @@
 <!-- <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME"> -->
 
 ### Olá, Eu sou o Thyago  =D 👋
-Profissional e eterno estudante de tecnologia
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thyagocool)
 
