@@ -2,7 +2,6 @@
 
 ### Olá, Eu sou o Thyago  =D 👋
 
-
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thyagocool)
 
 ______
